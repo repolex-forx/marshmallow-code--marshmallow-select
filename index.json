@@ -1,0 +1,11 @@
+{
+  "org": "marshmallow-code",
+  "repo": "marshmallow-select",
+  "versions": [
+    {
+      "commit": "ca00c071d0de1c688dd508b6101ffdc389e48892",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:18:07.578990+00:00"
+    }
+  ]
+}
