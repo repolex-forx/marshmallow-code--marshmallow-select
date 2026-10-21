@@ -88,4 +88,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [marshmallow-code/marshmallow-select](https://github.com/marshmallow-code/marshmallow-select)
 
 ---
-*Parsed on 2026-10-11 by [repolex](https://repolex.ai)*
+*Parsed on 2026-10-21 by [repolex](https://repolex.ai)*
